@@ -1,0 +1,177 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: white;
+}
+
+h1, h2, h3{
+  text-align: center;
+  font-family: helvetica;  
+}
+h1{
+  font-size: 12vw;
+  margin-top:15%;
+}
+h2,h3{
+  line-height:210%;
+  border: 0.2em solid;
+  border-radius: 25px 25px; 
+  margin-left:20%;
+  margin-right:20%;  
+}
+h2{
+  margin-top: 13%;
+}
+.arriba{
+  margin-top: 30%;
+  margin-bottom: 20%;
+}
+.abajo{;
+  margin-bottom: 25%;
+}
+.arribab{
+  margin-top: 30%;
+  margin-bottom: 20%;
+  color:white;
+}
+.abajob{;
+  margin-bottom: 25%;
+  color:white;
+}
+.contenedor{
+  width: 100%;
+  height: 100%;
+  overflow:hidden;
+}
+.margen0{
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:0%;
+}
+.margen1{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-100%;
+}
+
+.margen2{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-200%;
+}
+
+.margen3{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-300%;
+}
+
+.margen4{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-400%;
+}
+
+.margen5{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-500%;
+}
+
+.margen6{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-600%;
+}
+
+.margen7{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-700%;
+}
+
+.margen8{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-800%;
+}
+
+.margen9{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-900%;
+}
+
+.margen10{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-1000%;
+}
+
+.margen11{
+  transition:all 0.5s;		
+  float: left;
+  width: 1200%;
+  height: 100%;
+  margin-left:-1100%;
+}
+
+.slide{
+  float:left;
+  width: 8.33%;
+  height: 100%;
+  position: relative;  
+}
+#uno{
+  background-color: blue;
+}
+#dos{
+  background-color: red;
+}
+#tres{
+  background-color: green;
+}
+#cuatro{
+  background-color: yellow;
+}
+#cinco{
+  background-color: black;
+}
+#seis{
+  background-color: pink;
+}
+#siete{
+  background-color: gray;
+}
+#ocho{
+  background-color: orange;
+}
+#nueve{
+  background-color: purple;
+}
+#diez{
+  background-color: white;
+}
